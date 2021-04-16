@@ -1,5 +1,60 @@
+h1 {
+  text-align: center;
+}
+
+figure.item {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#caption {
+  font-size: 15px;
+  text-align: center;
+}
+
+
+p {
+  align-items: center;
+  text-align: center;
+  
+  
+  
+}
+
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  background-color: tomato;
+  
+}
+
+a {
+  text-align: center;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  
 }
+
+
+div {
+  width: 25%;
+  text-align: center;
+  float: left;
+  background-color: turquoise;
+}
+
+
